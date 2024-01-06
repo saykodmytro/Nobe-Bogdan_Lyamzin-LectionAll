@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "title": "Eloquent JavaScript, Third Edition",
+    "author": "Marijn Haverbeke"
+  },
+  {
+    "id": "2",
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolas Bevacqua"
+  },
+  {
+    "id": "3",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "4",
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer"
+  },
+  {
+    "id": "5",
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  }
+]
